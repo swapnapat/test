@@ -26,7 +26,7 @@
           <version>2.2</version>
 		  <configuration>
 			<url>http://localhost:8080</url>
-			<server>mytomcat</server>
+			<server>manager</server>
 			<path>/trucks</path>
 		  </configuration>
         </plugin>
